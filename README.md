@@ -8,3 +8,5 @@
 1sintu/1sintu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I am a computer science and engineering student. I Know about Iot and Robotics with  web deveopment.

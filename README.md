@@ -59,6 +59,8 @@
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="amazonwebservices logo"  />
    <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="amazonwebservices logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="amazonwebservices logo"  />
 </div>
 </div>
 
